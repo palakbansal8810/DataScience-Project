@@ -130,7 +130,7 @@ venv/
 ml_env/
 ENV/
 env.bak/
-ml_env.bal/
+ml_env.bak/
 venv.bak/
 
 # Spyder project settings
