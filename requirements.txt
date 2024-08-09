@@ -7,4 +7,5 @@ scikit-learn
 seaborn
 matplotlib
 catboost
+mlflow
 # -e .
